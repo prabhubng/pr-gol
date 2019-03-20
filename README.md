@@ -8,8 +8,9 @@ This project is developed as part of interview process as an assignment.
 In command line please execute the following commands:
 
 Install Angular-cli (please ignore this step if you are sure you have it already)
-#npm install -g @angular/cli
-
+```bash
+bash npm install -g @angular/cli
+```
 This command will install the dependencies
 #npm install
 
